@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-A primary goal of Science Hack Day Pdx 2017 is to be inclusive to the largest number of contributors and participants, with the most varied and diverse backgrounds possible. We aim to be the most fun hackathon you've ever attended. As such, we take your safety very seriously. We are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, experience, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of Science Hack Day Pdx 2017 is to be inclusive to the largest number of contributors and participants, with the most varied and diverse backgrounds possible. **We aim to be the most fun hackathon you've ever attended. As such, we take your safety very seriously.** We are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, experience, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
@@ -20,16 +20,17 @@ If you see someone who is making an extra effort to ensure our community is welc
 
 The following behaviors are expected and requested of all community members:
 
+*   PScience Hack Day PDX is a unique professional experience -- we are all hear to learn form each other and expect participants to show up ready to engage.
 *   Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
 *   Exercise consideration and respect in your speech and actions.
 *   Attempt collaboration before conflict.
 *   Refrain from demeaning, discriminatory, or harassing behavior and speech.
-*   Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, **even if they seem inconsequential**. We always want toknow if something doesn't feel right, even if you're not 100% sure why.
+*   Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, **even if they seem inconsequential**. We always want to know if something doesn't feel right, even if you're not 100% sure why.
 *   Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
 ## 4. Unacceptable Behavior
 
-Science Hack Day PDX is a unique professional experience -- we are all hear to learn form each other. The following behaviors are considered harassment and are unacceptable within our community:
+ The following behaviors are considered harassment and are unacceptable within our community:
 
 *   Violence, threats of violence, depictions of violence, or violent commmunication directed against another person or a group of people.
 *   Sexist, racist, homophobic, transphobic, ableist, or otherwise discriminatory jokes and language. 
