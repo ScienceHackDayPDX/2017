@@ -1,5 +1,5 @@
-1. Project Title: 
-2. Team Members: 
-3. One sentence description of the project:
-4. Link to repository for project: 
-5. Comments:
+1. Link to project repository: 
+2. Project title: 
+3. Team members: 
+4. One sentence description of the project:
+
